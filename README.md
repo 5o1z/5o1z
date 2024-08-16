@@ -37,19 +37,20 @@
 ## <img src='https://github.com/AlterSol/AlterSol/blob/main/Images/handshake.gif?raw=true' width="70px" height="40px"> Connect with me
 
 <p align="center">
-  <a href="https://www.instagram.com/_s0.l__/" target="_blank">
+  <a href="https://www.instagram.com/_s0.l__/" target="_blank" style="text-decoration:none;">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" height="40"/>
   </a>
-  <a href="https://www.facebook.com/s0l.404/" target="_blank">
+  <a href="https://www.facebook.com/s0l.404/" target="_blank" style="text-decoration:none;">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" height="40"/>
   </a>
-  <a href="https://x.com/0x4lt3r" target="_blank">
+  <a href="https://x.com/0x4lt3r" target="_blank" style="text-decoration:none;">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="X" height="40"/>
   </a>
-  <a href="https://www.reddit.com/user/your-profile" target="_blank">
+  <a href="https://www.reddit.com/user/your-profile" target="_blank" style="text-decoration:none;">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111589.png" alt="Reddit" height="40"/>
   </a>
 </p>
+
 
 <hr>
 
