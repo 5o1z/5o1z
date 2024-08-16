@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2c78e6f2-e03d-41a2-928c-47bc9487a3c9)## <img src="https://github.com/AlterSol/AlterSol/blob/main/Images/wave.gif?raw=true" width="50px" height="50px"></img> About Me
+## <img src="https://github.com/AlterSol/AlterSol/blob/main/Images/wave.gif?raw=true" width="50px" height="50px"></img> About Me
 
 <table align="center">
 <tr border="none">
