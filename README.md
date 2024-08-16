@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/AlterSol/AlterSol/output/snake.svg" alt="Snake animation" />
+
 ## <img src="https://github.com/AlterSol/AlterSol/blob/main/Images/wave.gif?raw=true" width="50px" height="50px"></img> About Me
 
 <table align="center">
@@ -20,45 +22,47 @@
 
 ## <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"></img> Languages and Tools
 
-
-
-<p align="center">
-  <a href="https://www.python.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="40"/></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40"/></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" height="40"/></a>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="C/C++" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" height="40"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" height="40"/></a>
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+</div>
 
 ## <img src='https://github.com/AlterSol/AlterSol/blob/main/Images/handshake.gif?raw=true' width="70px" height="40px"> Connect with me
 
-<p align="center">
-<a href="https://www.facebook.com/s0l.404/" target="_blank" style="text-decoration:none; margin-right: 10px; display: inline-block; line-height: 0;">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/facebook-alt.svg" alt="Facebook" height="40" style="vertical-align: middle;"/>
-</a>
 
-<a href="https://www.instagram.com/_s0.l__/" target="_blank" style="text-decoration:none; margin-right: 10px; display: inline-block; line-height: 0;">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" style="vertical-align: middle;"/>
-</a>
+<br clear="both">
 
-<a href="https://x.com/0x4lt3r" target="_blank" style="text-decoration:none; margin-right: 10px; display: inline-block; line-height: 0;">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="40" style="vertical-align: middle;"/>
-</a>
+<div align="center">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" onclick="window.open('https://x.com/0x4lt3r', '_blank');" />
 
-<a href="https://www.reddit.com/user/your-profile" target="_blank" style="text-decoration:none; display: inline-block; line-height: 0;">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/reddit.svg" alt="Reddit" height="40" style="vertical-align: middle;"/>
-</a>
-</p>
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" onclick="window.open('https://www.instagram.com/_s0.l__/', '_blank');" />
 
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" onclick="window.open('https://www.facebook.com/your-profile', '_blank');" />
+
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" onclick="window.open('vohoanganhkiet2006@gmail.com');" />
+
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/2526ac75e7ebf0be7d04d60d88a8934c26a4bb8a/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="gmail logo" onclick="window.open('https://www.reddit.com/user/mwolf404/');" />
+
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo" onclick="window.open('https://tryhackme.com/p/4lt3r', '_blank');" />
+</div>
 
 <hr>
 
 <p align="center">
     <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark" alt="Quote">
 </p>
-
-
