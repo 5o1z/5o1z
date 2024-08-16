@@ -34,7 +34,7 @@
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" height="40"/></a>
 </p>
 
-## <img src='https://github.com/AlterSol/Alter/blob/main/Images/handshake.gif?raw=true' width="70px" height="40px"> Connect with me
+## <img src='https://github.com/AlterSol/AlterSol/blob/main/Images/handshake.gif?raw=true' width="70px" height="40px"> Connect with me
 
 <p align="center">
   <a href="https://www.instagram.com/_s0.l__/" target="_blank">
