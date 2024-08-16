@@ -37,17 +37,17 @@
 ## <img src='https://github.com/AlterSol/AlterSol/blob/main/Images/handshake.gif?raw=true' width="70px" height="40px"> Connect with me
 
 <p align="center">
-  <a href="https://www.instagram.com/_s0.l__/" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" height="40"/>
+  <a href="https://www.instagram.com/_s0.l__/" target="blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/veritablestudios/colored-icons/6120aeeead524b5a20d90e1e892746841f67a089/public/logos/instagram/instagram.svg" alt="Instagram" height="40"/>
   </a>
-  <a href="https://www.facebook.com/s0l.404/" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" height="40"/>
+  <a href="https://www.facebook.com/s0l.404/" target="blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/veritablestudios/colored-icons/6120aeeead524b5a20d90e1e892746841f67a089/public/logos/facebook/facebook.svg" alt="Facebook" height="40"/>
   </a>
-  <a href="https://x.com/0x4lt3r" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="X" height="40"/>
+  <a href="https://x.com/0x4lt3r" target="blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/veritablestudios/colored-icons/6120aeeead524b5a20d90e1e892746841f67a089/public/logos/twitter/twitter.svg" alt="X" height="40"/>
   </a>
-  <a href="https://www.reddit.com/user/your-profile" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111589.png" alt="Reddit" height="40"/>
+  <a href="https://www.reddit.com/user/your-profile" target="blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/veritablestudios/colored-icons/6120aeeead524b5a20d90e1e892746841f67a089/public/logos/reddit/reddit.svg" alt="Reddit" height="40"/>
   </a>
 </p>
 
