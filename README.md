@@ -2,7 +2,7 @@
 
 <table align="center">
 <tr border="none">
-<td width="50%" align="left">
+<td width="80%" align="left">
 
 - 🪄 I'm `Sol (aka Alter)`
 - 🔭 I’m currently learning `Cyber Security at FPT University`.
