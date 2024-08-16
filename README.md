@@ -1,4 +1,4 @@
-## <img src="https://github.com/AlterSol/AlterSol/blob/main/Images/wave.gif?raw=true" width="50px" height="50px"></img> About Me
+![image](https://github.com/user-attachments/assets/2c78e6f2-e03d-41a2-928c-47bc9487a3c9)## <img src="https://github.com/AlterSol/AlterSol/blob/main/Images/wave.gif?raw=true" width="50px" height="50px"></img> About Me
 
 <table align="center">
 <tr border="none">
@@ -37,17 +37,20 @@
 ## <img src='https://github.com/AlterSol/AlterSol/blob/main/Images/handshake.gif?raw=true' width="70px" height="40px"> Connect with me
 
 <p align="center">
-  <a href="https://www.instagram.com/_s0.l__/" target="blank" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/veritablestudios/colored-icons/6120aeeead524b5a20d90e1e892746841f67a089/public/logos/instagram/instagram.svg" alt="Instagram" height="40"/>
+  <a href="https://www.facebook.com/s0l.404/" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/facebook-alt.svg" alt="Facebook" height="40"/>
   </a>
-  <a href="https://www.facebook.com/s0l.404/" target="blank" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/veritablestudios/colored-icons/6120aeeead524b5a20d90e1e892746841f67a089/public/logos/facebook/facebook.svg" alt="Facebook" height="40"/>
+  
+  <a href="https://www.instagram.com/_s0.l__/" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/instagram.svg" alt="Instagram" height="40"/>
   </a>
-  <a href="https://x.com/0x4lt3r" target="blank" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/veritablestudios/colored-icons/6120aeeead524b5a20d90e1e892746841f67a089/public/logos/twitter/twitter.svg" alt="X" height="40"/>
+  
+  <a href="https://x.com/0x4lt3r" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="40"/>
   </a>
-  <a href="https://www.reddit.com/user/your-profile" target="blank" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/veritablestudios/colored-icons/6120aeeead524b5a20d90e1e892746841f67a089/public/logos/reddit/reddit.svg" alt="Reddit" height="40"/>
+  
+  <a href="https://www.reddit.com/user/your-profile" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/reddit.svg" alt="Reddit" height="40"/>
   </a>
 </p>
 
@@ -57,3 +60,5 @@
 <p align="center">
     <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark" alt="Quote">
 </p>
+
+
