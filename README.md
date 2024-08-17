@@ -8,7 +8,7 @@
 - 🔭 I’m currently learning `Cyber Security at FPT University`.
 - 🌱 My goal is to become a `Cybersecurity expert`
 - 💬 I am a `Co-Founder of GDLS`
-- ⚙️ Hobby: `Hacking`, `Listening to music` and `Landscape photography`
+- ⚙️ Hobby: `Hacking`, `Listening to music` and `Photography`
 - ♾️ `Dream` -> `Fuel` -> `Explore` -> `Hack` -> `Repeat`
 
 </td>
