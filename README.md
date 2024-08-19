@@ -5,6 +5,7 @@
 <td width="50%" align="left">
 
 - 🪄 I'm `Sol (aka Alter)`
+- 🐏 My zodiac: `Aries♈`
 - 🔭 I’m currently learning `Cyber Security at FPT University`.
 - 🌱 My goal is to become a `Cybersecurity Specialist`
 - 💬 I am a `Co-Founder of GDLS`
