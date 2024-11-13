@@ -6,8 +6,8 @@
 
 - 🪄 I'm `Sol (aka Alter)`
 - 🐏 My zodiac: `Aries♈`
-- 🔭 I’m currently learning `Cyber Security at FPT University`.
-- 🌱 My goal is to become a `Cybersecurity Specialist`
+- 🔭 I’m currently learning `pwn`.
+- 🌱 My goal is to become a `Security Researcher`
 - 💬 I am a `Co-Founder of GDLS`
 - ⚙️ Hobby: `Hacking`, `Listening to music` and `Photography`
 - ♾️ `Dream` -> `Fuel` -> `Explore` -> `Hack` -> `Repeat`
