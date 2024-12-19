@@ -6,7 +6,7 @@
 
 - 🪄 I'm `Sol (aka Alter)`
 - 🐏 My zodiac: `Aries♈`
-- 🔭 I’m currently learning `pwn & rev`.
+- 🔭 I’m currently learning `pwn`
 - 🌱 My goal is to become a `Security Researcher`
 - 💬 I am a `Co-Founder of GDLS`
 - ⚙️ Hobby: `Hacking`, `Listening to music` and `Photography`
