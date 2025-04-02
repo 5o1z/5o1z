@@ -8,7 +8,7 @@
 - 🐏 My zodiac: `Aries♈`
 - 🔭 I’m currently learning `pwn`
 - 🌱 My goal is to become a `Vulnerability Researcher` & `Exploit Development`
-- 💬 I am a `Co-Founder of GDLS` & `Night Sentinels`
+- 💬 I am a `Founder of GDLS` & `Fate//Decide`
 - ⚙️ Hobby: `Hacking`, `Listening to music` and `Photography`
 - ♾️ `Dream` -> `Fuel` -> `Explore` -> `Hack` -> `Repeat`
 
