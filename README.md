@@ -9,7 +9,7 @@
 - 🔭 I’m currently learning `pwn`
 - 🌱 My goal is to become a `Vulnerability Researcher` & `Exploit Development`
 - 💬 I am a `Founder of GDLS` & `Fate//Decide`
-- ⚙️ Hobby: `Hacking`, `Listening to music` and `Photography`
+- ⚙️ Hobby: `Hacking`, `Listening to music`, and `Photography`
 - ♾️ `Dream` -> `Fuel` -> `Explore` -> `Hack` -> `Repeat`
 
 </td>
@@ -28,7 +28,6 @@
   <a href="https://isocpp.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="C/C++" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" height="40"/></a>
 </p>
 
 ## <img src="https://github.com/AlterSol/AlterSol/blob/main/Images/nice.gif?raw=true" width="50px" height="50px"></img> Stats
@@ -39,11 +38,9 @@
 
 ## <img src='https://github.com/AlterSol/AlterSol/blob/main/Images/handshake.gif?raw=true' width="70px" height="40px"> Connect with me
 <div align="center">
-  <a href="https://x.com/0x4lt3r"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" /></a>
+  <a href="https://x.com/5o1z_"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" /></a>
   <a href="https://www.instagram.com/_s0.l__/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" /></a>
-  <a href="https://www.facebook.com/s0l.404/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" /></a>
-  <a href="https://tryhackme.com/p/4lt3r"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo" /></a>
+  <a href="mailto:vohoanganhkiet2006@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" /></a>
 </div>
 
 
