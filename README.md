@@ -4,7 +4,7 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🪄 I'm `Kaiser (aka Alter)`
+- 🪄 I'm `Kaiser (aka Kaiz0r)`
 - 🐏 My zodiac: `Aries♈`
 - 🔭 I’m currently learning `pwn`
 - 🌱 My goal is to become a `Vulnerability Researcher` & `Exploit Development`
