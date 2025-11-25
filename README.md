@@ -26,7 +26,6 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40"/></a>
   <a href="https://isocpp.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="C/C++" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" height="40"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash" height="40"/></a>
 </p>
 
 ## <img src="https://github.com/AlterSol/AlterSol/blob/main/Images/nice.gif?raw=true" width="50px" height="50px"></img> Stats
